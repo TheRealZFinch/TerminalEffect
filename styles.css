@@ -1,0 +1,15 @@
+body {
+	background-color: black;
+	color: green;
+    font-family: monospace
+}
+
+h1 {
+	font-size: 46px
+}
+
+p {
+	font-size: 28px;
+	white-space: pre-wrap;
+	word-wrap: break-word
+}
